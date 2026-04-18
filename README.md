@@ -6,11 +6,11 @@ Team _______
 
 ## Team Members
 
-| Member | Vulnerability Found | Branch Name |
-|--------|-------------------|-------------|
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| Member  | Vulnerability Found        | Branch Name                        |
+|---------|----------------------------|------------------------------------|
+| _______ | _______                    | _______                            |
+| Genesis Tugawin | Search Input SQL Injection | genesis_search_input_sql_injection |
+| _______ | _______                    | _______                            |
 
 ## Videos
 
