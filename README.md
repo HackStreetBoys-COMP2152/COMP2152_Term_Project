@@ -2,7 +2,7 @@
 
 ## Team Name
 <!-- Replace with your team name -->
-Team _______
+Team HackStreet Boys
 
 ## Team Members
 
@@ -10,7 +10,7 @@ Team _______
 |---------|----------------------------|------------------------------------|
 | _______ | _______                    | _______                            |
 | Genesis Tugawin | Search Input SQL Injection | genesis_search_input_sql_injection |
-| _______ | _______                    | _______                            |
+| Edward Liao | Unrestricted Capabilities to Search Networks | edward_unrestricted_webhooks |
 
 ## Videos
 
@@ -18,7 +18,7 @@ Each team member records a short video (max 3 minutes) explaining their vulnerab
 
 - Member 1: https://youtube.com/watch?v=_______
 - Member 2: https://youtube.com/watch?v=wkSVUjPoju8
-- Member 3: https://youtube.com/watch?v=_______
+- Member 3: https://youtube.com/watch?v=EGmURqV0104
 
 ## Target
 
