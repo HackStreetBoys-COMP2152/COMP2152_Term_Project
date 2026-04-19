@@ -6,9 +6,9 @@ Team HackStreet Boys
 
 ## Team Members
 
-| Member  | Vulnerability Found        | Branch Name                        |
-|---------|----------------------------|------------------------------------|
-| Rehaan Lachporia | user api_key credentials | rehaan_api_usercredentials |
+| Member  | Vulnerability Found                        | Branch Name                        |
+|---------|--------------------------------------------|------------------------------------|
+| Rehaan Lachporia | User Api Key Credentials | rehaan_api_usercredentials |
 | Genesis Tugawin | Search Input SQL Injection | genesis_search_input_sql_injection |
 | Edward Liao | Unrestricted Capabilities to Search Networks | edward_unrestricted_webhooks |
 
@@ -16,9 +16,9 @@ Team HackStreet Boys
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Member 1: https://www.youtube.com/watch?v=zOHApGy4cwc
-- Member 2: https://youtube.com/watch?v=wkSVUjPoju8
-- Member 3: https://youtube.com/watch?v=EGmURqV0104
+- Rehaan Lachporia: https://www.youtube.com/watch?v=zOHApGy4cwc
+- Genesis Tugawin: https://www.youtube.com/watch?v=wkSVUjPoju8
+- Edward Liao : https://www.youtube.com/watch?v=EGmURqV0104
 
 ## Target
 

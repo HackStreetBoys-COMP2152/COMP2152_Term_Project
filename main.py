@@ -8,10 +8,9 @@ import sys
 import os
 
 scripts = [
-    "example_http_check.py",
-    "example_port_check.py",
-    "example_header_check.py",
-    "genesis_search_input_sql_injection.py"
+    "rehaan_api_usercredentials.py",
+    "genesis_search_input_sql_injection.py",
+    "edward_unrestricted_webhooks.py"
 ]
 
 if __name__ == "__main__":
